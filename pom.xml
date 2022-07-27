@@ -5,7 +5,10 @@
     <groupId>com.techelevator</groupId>
     <artifactId>m01-week-2-review</artifactId>
     <version>1.0</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>PRSLSv2</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
