@@ -1,0 +1,13 @@
+2nd version of my Paper / Rock / Scissors program
+
+Inspired by the first functionality, I wanted to expand the game to include the "Lizard/Spock" elements as seen in The Big Bang Theory
+
+I added different opponents who play different ways; Sheldon only plays Spock, Stuart always loses, that kind of thing
+I also wanted to apply what I have learned using other classes, maps, and method calling
+
+Notes for next version:
+add a menu system to allow replays, shows rules
+keep win/loss record within playthrough
+keep score with a text document read/write (export scores to sql table?)
+unlockable achievements? (you tied 100 times! you can play joshua from wargames!)
+
